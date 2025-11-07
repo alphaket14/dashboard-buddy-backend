@@ -1,8 +1,8 @@
 
-# ReferMe Backend 
+# Dashboard Buddy Backend 
 
 ## 🚀 Overview
-This is the backend for the **ReferMe** project, built using **Node.js, Express.js, and MySQL**
+This is the backend for the **Dashboard Buddy** project, built using **Node.js, Express.js, and MySQL**
 
 It handles user authentication, business referrals, and financial transactions.
 
@@ -12,8 +12,8 @@ It handles user authentication, business referrals, and financial transactions.
 ### 1️⃣ **Clone the Repository**
 
 ```sh
-git clone https://github.com/Faulcon-Enterprises/referme-backend.git
-cd referme-backend
+git clone https://github.com/Faulcon-Enterprises/Dashboard Buddy-backend.git
+cd Dashboard Buddy-backend
 ```
 
 ### 2️⃣ **Install Dependencies**
